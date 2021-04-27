@@ -1,7 +1,7 @@
 # Baseball_Game
 A simple baseball game used for keeping track of score. More specifically, for the game of darts where the back side is a baseball game. 
 
-To play the game, you must first have a dart board that looks something like ![Baseball Dart Board](baseball_darts.jpeg). 
+To play the game, you must first have a dart board that looks something like ![Baseball Dart Board](baseball_darts.jpg). 
 
 This game is taken in turns, where each player throws as many darts as it takes to get 3 outs. The rules pretty much follow normal baseball besides this. 
 
